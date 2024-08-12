@@ -11,7 +11,7 @@ Here we have project screenshot :
 
 
 Front Page:
-![screenshot](Walk.png)
+![screenshot](walk.png)
 
 
 Login :
